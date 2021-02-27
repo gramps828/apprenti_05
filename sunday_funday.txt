@@ -1,0 +1,8 @@
+#                  ###Week 1 challenges rough draft###
+#
+#
+#    1) Debug files, save changes in a .txt file called <theme_debug.
+#
+#    2) Using man, git_docs, and other websources as a starting ping 
+#         make a commit to Github branch'bucket'
+#       HINT: https://docs.github.com/en/github/importing-your-projects-to-githu# b/adding-an-existing-project-to-github-using-the-command-line
