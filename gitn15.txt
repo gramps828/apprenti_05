@@ -1,0 +1,25 @@
+#
+#
+#     ---week_01 sandbox lesson: Activating git, making git clones, ----
+#                      ----- pull from Github.----
+#  
+#
+# --Steps:--
+#
+# 1) Create a new directory on local machine called _____. 
+#  * Makes directory named after class theme choice
+#    ###cd into folder | mkdir <theme name>###
+#  *Activates Git on current directory
+#   ###git init### 
+#   or ###git init <file name>
+#
+# 2) Pull master repository apprenti_05
+#  *Grab apprenti repository from Git
+#    ###git clone <apprenti_5 link>###)
+#
+# 3) Pull week_01 branch
+#  *Pull from repositry branch
+#   ###git pull <repository name>### 
+#  *navigate to sunday_funday, read with vi, nano..., try to finish challenge
+#
+# --Done--
